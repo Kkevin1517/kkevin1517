@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas em meu perfil 🦂 👋
 
-<!--
-**Kkevin1517/kkevin1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alechandre
+- Estou aprendendo a desenvolver projetos pelo [Alura](https://www.alura.com.br)
+- Estou desenvolvendo a linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0000110148228XSP@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/riT4ukMw8FEAAAAi/playing-soccer-dale-taylor.gif)
